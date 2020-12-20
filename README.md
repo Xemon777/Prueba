@@ -6,7 +6,7 @@ Versiones
 versión 1.0
 versión 2.0 >> actual
 Instalación:
-git clone https://github.com/Monkey-hk4/CelBoom
+git clone https://github.com/Xemon777/Prueba
 cd CelBoom
 chmod +x *
 bash install.sh
